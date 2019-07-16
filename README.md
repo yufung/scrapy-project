@@ -21,7 +21,7 @@ This project contains 1 spider and you can list it using the `list` command:
 
 ## Running the spider
 
-You can run a spider using the `scrapy crawl` command:
+You can run the spider using the `scrapy crawl` command:
 
     $ scrapy crawl chubbygrub
 
